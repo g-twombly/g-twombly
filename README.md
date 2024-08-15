@@ -1,5 +1,5 @@
 ### Hello there👋...
-- 👩‍💻 I’m currently working on completing my B.S. in CS with an IDS minor at Caltech (2024)
-- 🌎 I’m currently learning more about networks, software engineering, and machine learning
+- 👩‍💻 Graduated with a B.S. in CS with an IDS minor from Caltech (2024)
+- 🌎 I’m always learning more about networks, software engineering, and machine learning
 - 📱 I’m looking to collaborate on hackathons!
-- ✉️ Message me on LinkedIn: https://www.linkedin.com/in/gabriella-twombly/ or my email gtwombly@caltech.edu
+- ✉️ Message me on LinkedIn: https://www.linkedin.com/in/gabriella-twombly/ or my email gptwombly@gmail.com
